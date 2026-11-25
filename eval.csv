@@ -1,0 +1,55 @@
+texte,attendu
+bonjour à toi,salutation
+salut tout le monde,salutation
+coucou toi,salutation
+hello mon ami,salutation
+bonsoir à tous,salutation
+bonjour comment allez vous,etat
+salut ça va bien,etat
+comment vas tu aujourd'hui,etat
+ça va ou quoi,etat
+tout se passe bien,etat
+quoi de beau,etat
+tu vas bien,etat
+comment se passe ta soirée,etat
+merci bien,remerciement
+merci infiniment,remerciement
+je vous remercie beaucoup,remerciement
+grand merci,remerciement
+au revoir à tous,au_revoir
+à demain mon ami,au_revoir
+bonne soirée,au_revoir
+je m'en vais à bientôt,au_revoir
+salut je dois y aller,au_revoir
+tu t'appelles comment,identite
+quel est ton nom,identite
+qui est ton créateur,identite
+es-tu un robot,identite
+tu es une IA,identite
+présente-toi,identite
+qui t'a fait,identite
+que sais tu faire,aide
+peux tu m'aider s'il te plait,aide
+j'ai besoin de ton aide,aide
+tu parles anglais,aide
+explique comment tu fonctionnes,aide
+quelle est la capitale du Cameroun,hors_domaine
+donne-moi la météo de demain,hors_domaine
+raconte-moi une blague,hors_domaine
+combien font deux plus deux,hors_domaine
+quel est le prix du pétrole,hors_domaine
+recette du ndolé,hors_domaine
+qui a gagné la coupe du monde,hors_domaine
+explique la photosynthèse,hors_domaine
+traduis cette phrase en espagnol,hors_domaine
+comment installer python sur windows,hors_domaine
+je veux acheter un téléphone,hors_domaine
+quelle heure est-il à Paris,hors_domaine
+écris un poème sur la mer,hors_domaine
+combien coûte un billet d'avion,hors_domaine
+résous cette équation,hors_domaine
+parle-moi de l'histoire de l'Afrique,hors_domaine
+xyzabc qwerty,hors_domaine
+azerty uiop,hors_domaine
+le chat dort sur le canapé,hors_domaine
+programme de la licence informatique,hors_domaine

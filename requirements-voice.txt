@@ -1,0 +1,4 @@
+# Mode vocal (facultatif) — nécessite un micro
+SpeechRecognition>=3.10
+PyAudio>=0.2.13
+pyttsx3>=2.90

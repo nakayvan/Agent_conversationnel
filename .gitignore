@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.vscode/
+.idea/
+*.pkl
+*.npz
+# fichiers temporaires Office
+~$*
+.DS_Store

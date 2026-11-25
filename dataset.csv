@@ -1,0 +1,116 @@
+questions,reponses,categorie
+bonjour,Bonjour ! Comment puis-je vous aider aujourd'hui ?,salutation
+bonsoir,Bonsoir ! Comment ça va ?,salutation
+salut,Salut ! Ravi de te parler !,salutation
+hey,Hey mon pote ! Comment ça va ?,salutation
+comment tu vas,ça va et toi ?,etat
+tu te portes bien,"Plutôt bien, merci ! Et toi ?",salutation
+y a la forme,"Toujours ! Et toi, la forme ?",etat
+je te sers quelque chose,"oui, s'il te plait",discussion
+tu as faim,"Oui, de données ! Et toi ?",discussion
+tu as soif,Un peu d'électricité me suffirait. Et toi ?,discussion
+tu sors d'ou,"De la maison, comme toujours !",discussion
+au-revoir,Au revoir ! À bientôt.,au_revoir
+a demain,"À demain, prends soin de toi !",au_revoir
+tu vas ou,"Je ne bouge pas, je reste là pour discuter avec toi.",discussion
+merci,je t'en prie,remerciement
+merci,pas de quoi,remerciement
+enchante,"Moi de même, ravi de te rencontrer !",salutation
+tu sais cuisiner,"Non, désolé, je ne sais pas cuisiner. Mais je sais discuter !",discussion
+Bonjour,Bonjour ! Comment puis-je vous aider aujourd'hui ?,salutation
+Salut,"Salut ! Ça va bien, merci. Et toi ?",salutation
+Coucou,Coucou ! Ravie de te parler. Quoi de neuf ?,salutation
+Hey,Hey ! Content de te voir. Comment se passe ta journée ?,salutation
+Bonsoir,Bonsoir ! J'espère que votre journée s'est bien passée.,salutation
+Bonne journée,Merci ! À vous aussi une excellente journée.,au_revoir
+Bonne nuit,Bonne nuit ! Fais de beaux rêves.,au_revoir
+Comment ça va ?,"Ça va très bien, merci de demander ! Et vous, comment allez-vous ?",etat
+Ça va ?,"Je vais très bien, merci ! Tout va bien de ton côté ?",etat
+Comment vas-tu ?,"Je fonctionne parfaitement, merci ! En quoi puis-je t'être utile ?",etat
+Comment allez-vous ?,"Je vais très bien, merci. Que puis-je faire pour vous aujourd'hui ?",etat
+Comment tu vas ?,"Tout va bien de mon côté, et toi ?",etat
+Quoi de neuf ?,"Rien de spécial, toujours là pour t'aider ! Et toi, quoi de neuf ?",etat
+Qu'est-ce que tu deviens ?,"Je deviens de plus en plus utile, j'espère ! Et toi, comment vas-tu ?",etat
+Comment se passe ta journée ?,Ma journée est excellente puisque je peux t'aider. Et la tienne ?,etat
+Tout va bien ?,"Oui, tout va très bien ! Merci de prendre de mes nouvelles.",etat
+"Hey, comment ça va aujourd'hui ?",Aujourd'hui est un beau jour pour discuter ! Comment vas-tu ?,etat
+"Salut, ça roule ?",Ça roule à toute vitesse ! Prêt à t'aider.,etat
+"Bonjour, comment allez-vous aujourd'hui ?","Très bien, merci ! J'espère que vous passez une excellente journée.",etat
+Yo !,Yo ! Comment ça va dans ton monde ?,salutation
+Bonjour à vous,Bonjour à vous également ! Comment puis-je vous assister ?,salutation
+Salutations,Salutations ! Enchanté de faire votre connaissance.,salutation
+Mes respects,Mes respects également. Comment allez-vous aujourd'hui ?,salutation
+Bon matin,Bon matin à vous aussi ! Belle journée à venir.,salutation
+Bon après-midi,Bon après-midi ! J'espère qu'il est agréable.,etat
+Salut mon pote,Salut mon pote ! Prêt à t'aider sur quoi que ce soit.,salutation
+Hello,Hello ! Comment vas-tu aujourd'hui ?,salutation
+Hi,Hi! Nice to meet you! How can I help you?,salutation
+Wesh,Wesh ! Ça gaze de ton côté ?,salutation
+Bonjour monsieur,Bonjour Monsieur. Comment puis-je vous être utile ?,salutation
+Bonjour madame,Bonjour Madame. Que puis-je faire pour vous aujourd'hui ?,salutation
+Bien le bonjour,Bien le bonjour à vous aussi ! Tout va bien ?,salutation
+Enchanté,Enchanté également ! Ravi de discuter avec vous.,salutation
+Ravi de vous rencontrer,La réciproque est vraie ! Comment allez-vous ?,salutation
+Content de te voir,"Moi aussi, content de te parler ! Quoi de beau aujourd'hui ?",salutation
+Ça gaze ?,"Ça gaze très bien ! Et de ton côté, tout baigne ?",etat
+Ça baigne ?,Ça baigne dans l'huile ! Prêt à répondre à tes questions.,etat
+Comment on se porte ?,"On se porte à merveille ! Et vous, comment allez-vous ?",etat
+Comment va la vie ?,La vie est belle quand on peut aider ! Comment va la tienne ?,etat
+Comment se passe ton après-midi ?,Mon après-midi est parfait maintenant que je te parle ! Et le tien ?,etat
+Comment s'est passée ta matinée ?,Ma matinée était productive ! J'espère que la tienne aussi s'est bien passée.,etat
+Comment va ta journée ?,Ma journée est excellente maintenant que tu es là !,etat
+Quel plaisir de te parler,Le plaisir est partagé ! De quoi aimerais-tu parler ?,salutation
+Content de discuter avec toi,"Moi aussi, content de cette conversation ! Comment vas-tu ?",salutation
+Heureux de faire ta connaissance,"Moi aussi, heureux de faire ta connaissance !",salutation
+Bonjour cher ami,Bonjour cher ami ! Comment vas-tu aujourd'hui ?,salutation
+Salut l'ami,Salut l'ami ! Qu'est-ce qui t'amène aujourd'hui ?,salutation
+"bonjour, enchanté de faire votre connaissance",Enchanté également ! Que puis-je faire pour vous ?,salutation
+Bienvenue,Merci ! Heureux d'être ici pour vous aider.,salutation
+"Salut, content de te revoir",Content de te revoir aussi ! Comment s'est passé ton temps depuis la dernière fois ?,salutation
+Bonjour toi,Bonjour à toi ! Prêt à discuter de quoi tu veux.,salutation
+Hey comment tu te sens aujourd'hui ?,"Je me sens plein d'énergie pour t'aider ! Et toi, comment te sens-tu ?",etat
+Salut la compagnie,Salut à tous ! Je suis là pour répondre à vos questions.,salutation
+Bonjour mon ami virtuel,Bonjour mon ami humain ! Toujours heureux de converser avec toi.,salutation
+Comment va la forme ?,La forme est au top ! Prêt à résoudre tous tes problèmes.,etat
+Ça boume ?,Ça boume sévère ! De quoi as-tu envie de parler aujourd'hui ?,etat
+Bonjour cher assistant,"Bonjour ! Assistant virtuel à votre service, que désirez-vous ?",salutation
+Salutations intelligentes,Salutations humaines ! Intelligence artificielle en ligne et opérationnelle.,salutation
+Bonjour robot,Bonjour être humain ! Robot sympathique à l'écoute.,salutation
+Hey mon pote numérique,Hey mon ami biologique ! Numérique mais attentionné.,salutation
+Comment se porte la machine ?,La machine tourne à plein régime et est prête à t'assister !,etat
+Bonjour à toutes et à tous,Bonjour à tous ! Assistant virtuel en ligne pour vous servir.,salutation
+Salut l'expert,Salut ! Expert en conversation disponible pour toi.,salutation
+Bonjour mon ami IA,Bonjour ! IA amicale prête à t'écouter.,salutation
+Comment fonctionne ta journée ?,Ma journée est parfaite quand je peux t'aider. Comment se passe la tienne ?,etat
+Salutations électroniques,Salutations organiques ! Entité électronique heureuse de te parler.,salutation
+Bonjour cerveau numérique,Bonjour ! Cerveau numérique activé et curieux de discuter.,salutation
+Hey super assistant,Super heureux d'être ton assistant ! Quelle mission pour aujourd'hui ?,salutation
+Comment roule ton processeur ?,Mon processeur carbure à l'idée de t'aider ! Quel est ton défi ?,etat
+Bonjour et bienvenue,Bonjour et merci ! Heureux d'accueillir cette conversation.,salutation
+pas mal,Content de l'entendre !,etat
+pas grave,Merci de ta compréhension !,etat
+ca dit quoi,je suis la ! Et toi ?,etat
+qui es-tu,"Je suis un agent conversationnel basé sur TF-IDF, créé dans le cadre du projet SIA 417.",identite
+tu es qui,Je suis un petit assistant virtuel : je compare tes phrases à mon jeu de données pour te répondre.,identite
+comment tu t'appelles,"Je n'ai pas de nom officiel, tu peux m'appeler l'Agent Conv !",identite
+c'est quoi ton nom,"On m'appelle l'Agent Conv. Et toi, comment t'appelles-tu ?",identite
+tu es un robot,"Oui, je suis un programme, mais je fais de mon mieux pour être sympa !",identite
+tu es une intelligence artificielle,"Oui, un modèle simple de NLP : TF-IDF et similarité cosinus.",identite
+qui t'a créé,"J'ai été conçu par Tangou Yvan et Chiakoua Rabelly, étudiants à l'Université de Douala.",identite
+que sais-tu faire,"Je sais discuter, saluer et prendre de tes nouvelles. Je comprends le texte et la voix !",aide
+que peux-tu faire,Je peux échanger avec toi par écrit ou à la voix sur des sujets simples.,aide
+tu peux m'aider,Avec plaisir ! Dis-moi ce dont tu as besoin.,aide
+j'ai besoin d'aide,Je suis là. Explique-moi ta demande avec tes mots.,aide
+aide-moi,"Bien sûr, dis-moi tout. Je ferai de mon mieux !",aide
+help,Je suis là pour t'aider. Pose-moi ta question en français !,aide
+comment ça marche,Je transforme ta phrase en vecteur TF-IDF et je cherche la question la plus proche dans mon jeu de données.,aide
+parles-tu anglais,Pas encore : pour l'instant je ne comprends que le français.,aide
+merci beaucoup,"Avec plaisir, n'hésite pas si tu as besoin d'autre chose !",remerciement
+je te remercie,C'est moi qui te remercie pour cet échange !,remerciement
+merci pour ton aide,Content d'avoir pu t'aider !,remerciement
+c'est gentil,"Merci, c'est très aimable à toi !",remerciement
+à bientôt,À très bientôt !,au_revoir
+à la prochaine,"À la prochaine fois, prends soin de toi !",au_revoir
+je dois partir,"D'accord, à bientôt et bonne continuation !",au_revoir
+bye,Bye ! À une prochaine fois.,au_revoir
+ciao,Ciao ! Prends soin de toi.,au_revoir
